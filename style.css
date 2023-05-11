@@ -268,7 +268,7 @@
     height: 90%;
     z-index: 1;
     width: 100%;
-    max-width: 130px;
+    max-width: 1300px;
     padding: 0 50px;
 }
 
@@ -552,3 +552,5 @@
         grid-template-columns: 1fr;
     }
 }
+
+/* FOOTER */
